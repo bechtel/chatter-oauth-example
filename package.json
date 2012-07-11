@@ -1,0 +1,9 @@
+{
+  "name":"chatter-api-oauth",
+  "node":"0.8.1",
+  "author":"Chris Matthieu",
+  "dependencies" : {
+    "express"   :  "*",
+    "request" :  "*",
+  }
+}
